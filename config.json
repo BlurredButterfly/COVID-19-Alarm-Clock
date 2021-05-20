@@ -1,0 +1,7 @@
+{
+"API-keys":{
+    "weather":"<insert weather API here>",
+    "news":"<insert news API here>"
+    },
+"location":"Exeter"
+}
